@@ -140,11 +140,7 @@ Go to [http://localhost:5000](http://localhost:5000)
 
 ---
 
-## 🙌 Made with ❤️ by [P. N. Bhargav Teja](https://bhargavteja.com)
+## 🙌 Made with ❤️ by [K.Arun Reddy]
 
-> AI Engineer • Full-Stack Developer • LLM Enthusiast  
-> 🌐 Website: [bhargavteja.com](https://bhargavteja.com)  
-> 💻 GitHub: [@Bhargavteja-9779](https://github.com/Bhargavteja-9779)  
-> 🔗 LinkedIn: [bhargavteja-pn](https://www.linkedin.com/in/bhargavteja-pn)  
 
 If you found this project helpful, feel free to ⭐️ it on GitHub and share your thoughts!
